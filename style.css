@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/1156150.jpg);
+}
+
+/* Section 1 */
+.Section1{
+    background-color: #137fa93a;
+    padding: 7% 15% 7%;
+}
+
+
+.banner{
+    text-align: center;
+}
+
+.heading-ExtremeStore{
+    color: #028D74;
+}
+
+.blackFont{
+    color: #121f1b;
+}
+
+.section2{
+    background-image: url(https://wallpaperaccess.com/full/1156150.jpg);
+    text-align: center;
+    text-emphasis-color: #F8C471 ;
+}
+
+.section3{
+    text-align: center;
+}
+
+.section5{
+    background-color: #5A6268;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: aliceblue;
+}
+
+/* footer */
+.footer{
+    background-color: #5A6268;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: #F8C471;
+}
+
+h2{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h5{
+    font-family: 'Bangers', cursive;
+font-family: 'Chakra Petch', sans-serif;
+}
